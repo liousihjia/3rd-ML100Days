@@ -1,0 +1,20 @@
+Sample Code & 作業內容
+
+
+請閱讀以下相關文獻並試著回答以下問題 (本日知識點建議閱讀補充資料)
+
+
+
+Linear Regression 詳細介紹
+Logistics Regression 詳細介紹
+你可能不知道的 Logistic Regression
+
+
+線性回歸模型能夠準確預測非線性關係的資料集嗎?
+
+回歸模型是否對資料分布有基本假設?
+
+
+
+作業請提交 Day_037_HW.ipynb
+
